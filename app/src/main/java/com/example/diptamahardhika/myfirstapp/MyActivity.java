@@ -19,9 +19,9 @@ public final static String EXTRA_MESSAGE= "com.example.diptamahardhika.myfirstap
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_my, menu);
-        return true;
+        // Inflate the menu items for use in the action bar
+        getMenuInflater().inflate(R.menu.menu_activity_actions, menu);
+        return super.onCreateOptionsMenu(menu);
     }
 
     @Override

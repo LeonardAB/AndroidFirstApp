@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">My First App</string>
+    <string name="app_name">Aplikasi Pertama</string>
 
 
     <string name="action_settings">Pengaturan</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
-    <string name="title_activity_display_message">My Message</string>
-
+    <string name="edit_message">Isi pesan</string>
+    <string name="button_send">Kirim</string>
+    <string name="title_activity_display_message">Pesan saya</string>
+    <string name="action_search">cari</string>
     <string name="hello_world">Hello world!</string>
 </resources>
